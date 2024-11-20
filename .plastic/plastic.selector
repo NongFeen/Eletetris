@@ -1,0 +1,4 @@
+repository "Eletetris@kakfeenza@cloud"
+  path "/"
+    br "/main"
+    co "/main"
