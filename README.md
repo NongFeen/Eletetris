@@ -1,4 +1,5 @@
-This game is make for KMITL Game Dev Exit Exam
+This game is make for KMITL Game Dev Exit Exam 
+Create with Unity
 All the Asset in this project is from other game including sounds and images
 - Dota 2 (e.g., Lina, Crystal Maiden, Dark Seer, Enigma, Night Stalker).
 - Destiny 2 (Nezarec)
